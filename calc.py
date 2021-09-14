@@ -10,7 +10,7 @@ print(
     "Type div For Division",("\n")
 )
 
-operation = input("Enter Required Operatio: " )
+operation = input("Enter Required Operation: " )
 
 if operation == "add":
     ans = a+b
